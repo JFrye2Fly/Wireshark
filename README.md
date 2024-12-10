@@ -1,9 +1,11 @@
 #WireShark
 
 <h2>Basic network packet capture/analysis with WireShark</h2>
+![wireshark](https://github.com/user-attachments/assets/4a99508a-4aaa-4118-97dd-62b022731a9e)
 
-<br />
-<img width="1440" alt="WireShark" src="https://github.com/user-attachments/assets/c645a580-8728-49bd-b7b7-c21a51c9f989">
+<br />![wireshark1](https://github.com/user-attachments/assets/cdebaa2f-bd1f-4fef-921d-f2f6170af242)
+
+
 
 
 
